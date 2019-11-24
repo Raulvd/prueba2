@@ -17,7 +17,7 @@ public class PruebaParaGithub {
     public static void main(String[] args) {
         
         
-        System.out.println("Prueba para Github");
+        System.out.println("Prueba para subir un proyecto a Github");
     }
     
 }
